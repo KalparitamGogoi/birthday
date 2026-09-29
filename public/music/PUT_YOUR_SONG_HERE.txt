@@ -1,0 +1,9 @@
+Drop your song here as: our-song.mp3
+
+The player on the site looks for /public/music/our-song.mp3 — just replace
+this folder's contents with your real file, keeping that exact name (or
+update the "src" path in data/birthdayContent.ts if you'd rather use a
+different filename).
+
+Delete this text file once your song is in place — it's not referenced
+anywhere and is just a placeholder marker.
